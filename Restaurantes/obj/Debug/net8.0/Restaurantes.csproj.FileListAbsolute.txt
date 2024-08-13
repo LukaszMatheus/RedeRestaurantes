@@ -1,0 +1,14 @@
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\bin\Debug\net8.0\Restaurantes.exe
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\bin\Debug\net8.0\Restaurantes.deps.json
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\bin\Debug\net8.0\Restaurantes.runtimeconfig.json
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\bin\Debug\net8.0\Restaurantes.dll
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\bin\Debug\net8.0\Restaurantes.pdb
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.AssemblyInfoInputs.cache
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.AssemblyInfo.cs
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.csproj.CoreCompileInputs.cache
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.dll
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\refint\Restaurantes.dll
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.pdb
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\Restaurantes.genruntimeconfig.cache
+C:\Users\Teste\Documents\GitHub\RedeRestaurantes\Restaurantes\obj\Debug\net8.0\ref\Restaurantes.dll

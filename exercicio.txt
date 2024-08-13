@@ -1,0 +1,42 @@
+Você deverá criar um sistema para gerenciar uma rede de restaurantes. O sistema deve permitir cadastrar restaurantes, gerenciar o cardápio de cada restaurante e processar pedidos de clientes. O objetivo é aplicar conceitos de herança, encapsulamento e polimorfismo na criação das classes e funcionalidades do sistema.
+
+Requisitos do Sistema1. Classes e Herança:
+Crie uma classe Estabelecimento com as seguintes propriedades:
+Nome (string)
+Endereco (string)
+Telefone (string)
+Crie uma classe Restaurante que herda de Estabelecimento e adicione:
+
+Cardapio (lista de objetos da classe Prato)
+AdicionarPrato(Prato prato): Método para adicionar um prato ao cardápio.
+RemoverPrato(Prato prato): Método para remover um prato do cardápio.
+
+Crie uma classe Prato com as seguintes propriedades:
+Nome (string)
+Preco (decimal)
+Vegetariano (bool)
+
+2. Encapsulamento:    Na classe Prato, utilize encapsulamento para controlar o acesso ao preço do prato. Crie métodos públicos para:
+AtualizarPreco(decimal novoPreco): Método para atualizar o preço do prato, garantindo que o valor seja sempre positivo.
+ObterPreco(): Método para retornar o preço atual do prato.
+
+3. Polimorfismo:
+Crie uma classe abstrata Pedido que tenha:
+NumeroPedido (string)
+Pratos (lista de objetos da classe Prato)
+Um método abstrato CalcularTotal().
+Crie duas classes que herdam de Pedido:
+PedidoDelivery: Implementa o método CalcularTotal considerando o valor dos pratos mais uma taxa de entrega fixa.
+PedidoPresencial: Implementa o método CalcularTotal considerando apenas o valor dos pratos.
+4. Interação com o Usuário:
+No programa principal (Program.cs), crie um menu simples que permita ao usuário:
+Cadastrar restaurantes e pratos.
+Adicionar e remover pratos do cardápio de um restaurante.
+Criar e processar pedidos (delivery e presencial).
+Exibir o total de um pedido, com detalhes sobre os pratos incluídos.
+Utilize os métodos e classes criadas para gerenciar as ações.
+5. Entrega
+O código deve estar bem estruturado e comentado.
+Utilize boas práticas de programação orientada a objetos.
+Inclua um arquivo README.md explicando como o sistema funciona e como ele pode ser executado.
+O exercício deve ser entregue em até 4 dias
